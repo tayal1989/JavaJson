@@ -1,0 +1,12 @@
+{
+	"status": true,
+	"result": {
+		"name": "RestAssuredAPI",
+		"entry": 1,
+		"numQuestions": 1,
+		"reward": 1,
+		"startTime": "2020-12-08T21:01",
+		"endTime": "2020-12-09T21:02",
+		"_id": "5fcf9cc6739d7a00125aade7"
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"widgets": [
+		{
+			"products": [
+				{
+					"pogId": 673996921817,
+					"itemScore": 1.57924196E12,
+					"bucketName": "3729",
+					"price": 399
+				},
+				{
+					"pogId": 647008287751,
+					"itemScore": 1.57924196E12,
+					"bucketName": "1029",
+					"price": 529
+				},
+				{
+					"pogId": 631045244439,
+					"itemScore": 1.57924196E12,
+					"bucketName": "1616",
+					"price": 529
+				}
+			],
+			"trackingId": {
+				"key": "widgetId",
+				"value": "sml_10385227552345787013567940233527296"
+			},
+			"followUpId": "82851ba5e5e547ed8fed3b3f25a2fc58",
+			"subWidgets": [
+			],
+			"currentSlot": 1,
+			"widgetType": "sml",
+			"widgetLabel": "Search MLT Widget"
+		}
+	],
+	"successful": true,
+	"validationErrors": [
+	]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<company>
+	<staff id="1001">
+		<firstname name="A">yong</firstname>
+		<lastname name="B">mook kim</lastname>
+		<nickname name="C">mkyong</nickname>
+		<salary name="D">100000</salary>
+	</staff>
+	<staff id="2001">
+		<firstname name="A">low</firstname>
+		<lastname name="B">yin fong</lastname>
+		<nickname name="C">fong fong</nickname>
+		<salary name="D">200000</salary>
+	</staff>
+</company>

@@ -1,0 +1,939 @@
+{
+	"providers": [
+		"1026"
+	],
+	"results": {
+		"1026": {
+			"comR": {
+				"flights": {
+					"DEL-BOM-SG8723": "8723|SG|0820|1020|0|200||0|||127|30lh1q4hxfhuwtshtptppztwhqb06",
+					"BOM-CCU-I5317": "317|I5|2055|2355|0|300||0|||127|bbjh30lh9vhsdwhtptppztwhqb06",
+					"DEL-BOM-6E6957": "6957|6E|1140|1330|0|150||0|||127|30lh1q4hzqhznvwhtptppztwhqb06",
+					"CCU-DEL-SG130": "130|SG|0735|1005|0|230||0|||127|1q4hbbjhxfhdsphtptppztwhqb06",
+					"BOM-DEL-AI538": "538|AI|2030|2245|0|215||0|||127|1q4h30lhr9hvsuhtptppztwhqb06",
+					"BOM-CCU-SG487": "487|SG|1945|2230|0|245||0|||127|bbjh30lhxfhkuwhtptppztwhqb06",
+					"CCU-BOM-UK772": "772|UK|1240|1520|0|240||0|||127|30lhbbjhjehwwthtptppztwhqb06",
+					"CCU-DEL-I5552": "552|I5|0755|0955|0|200||0|||127|1q4hbbjh9vhvvthtptppztwhqb06",
+					"DEL-CCU-UK705": "705|UK|0720|0915|0|155||0|||127|bbjh1q4hjehwpvhtptppztwhqb06",
+					"DEL-BOM-G8336": "336|G8|0940|1200|0|220||0|||127|30lh1q4hfuhsszhtptppztwhqb06",
+					"BOM-DEL-SG8704": "8704|SG|1735|1935|0|200||0|||127|1q4h30lhxfhuwpkhtptppztwhqb06"
+				},
+				"fares": {
+				},
+				"groupedFares": {
+					"DEL-BOM-SG8723": {
+						"BOM-CCU-I5317*CCU-DEL-I5552": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 14049.0,
+							"c": "INR",
+							"bf": 11242.0,
+							"t": 2807.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 14049.0,
+							"ttf": 14049.0,
+							"ibf": 9476.0,
+							"obf": 4573.0,
+							"rt": "REFUNDABLE",
+							"r": 16.161,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"I5317": {
+									"hb": "7 Kg",
+									"cb": "20 Kg"
+								},
+								"SG8723": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"I5552": {
+									"hb": "7 Kg",
+									"cb": "20 Kg"
+								}
+							},
+							"cvf": {
+								"df": 519,
+								"tdf": 519
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"BOM-CCU-I5317": {
+								},
+								"CCU-DEL-I5552": {
+									"at": "T3"
+								},
+								"DEL-BOM-SG8723": {
+									"dt": "3",
+									"at": "2"
+								}
+							},
+							"ottf": 0.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						},
+						"BOM-CCU-SG487*CCU-DEL-SG130": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 12530.0,
+							"c": "INR",
+							"bf": 11130.0,
+							"t": 1400.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 12530.0,
+							"ttf": 12530.0,
+							"ibf": 8597.0,
+							"obf": 3933.0,
+							"rt": "REFUNDABLE",
+							"r": 16.551,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"SG130": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"SG8723": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"SG487": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								}
+							},
+							"cvf": {
+								"df": 519,
+								"tdf": 519
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"BOM-CCU-SG487": {
+									"dt": "2",
+									"at": "2"
+								},
+								"CCU-DEL-SG130": {
+									"dt": "2",
+									"at": "3"
+								},
+								"DEL-BOM-SG8723": {
+									"dt": "3",
+									"at": "2"
+								}
+							},
+							"ottf": 12460.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						},
+						"BOM-DEL-AI538": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 8549.0,
+							"c": "INR",
+							"bf": 7306.0,
+							"t": 1243.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 8549.0,
+							"ttf": 8549.0,
+							"ibf": 4616.0,
+							"obf": 3933.0,
+							"rt": "REFUNDABLE",
+							"r": 6.829,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"SG8723": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"AI538": {
+									"hb": "7 KG",
+									"cb": "1PC"
+								}
+							},
+							"cvf": {
+								"df": 499,
+								"tdf": 499
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"DEL-BOM-SG8723": {
+									"dt": "3",
+									"at": "2"
+								},
+								"BOM-DEL-AI538": {
+									"dt": "2",
+									"at": "3"
+								}
+							},
+							"ottf": 8486.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						},
+						"BOM-DEL-SG8704": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 7918.0,
+							"c": "INR",
+							"bf": 6738.0,
+							"t": 1180.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 7918.0,
+							"ttf": 7918.0,
+							"ibf": 3985.0,
+							"obf": 3933.0,
+							"rt": "REFUNDABLE",
+							"r": 6.351,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"SG8723": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"SG8704": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								}
+							},
+							"cvf": {
+								"df": 489,
+								"tdf": 489
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"DEL-BOM-SG8723": {
+									"dt": "3",
+									"at": "2"
+								},
+								"BOM-DEL-SG8704": {
+									"dt": "2",
+									"at": "3"
+								}
+							},
+							"ottf": 7876.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						}
+					},
+					"DEL-BOM-6E6957": {
+						"BOM-CCU-SG487*CCU-DEL-SG130": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 12530.0,
+							"c": "INR",
+							"bf": 11145.0,
+							"t": 1385.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 12530.0,
+							"ttf": 12530.0,
+							"ibf": 8597.0,
+							"obf": 3933.0,
+							"rt": "REFUNDABLE",
+							"r": 16.485,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"SG130": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"SG487": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"6E6957": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								}
+							},
+							"cvf": {
+								"df": 519,
+								"tdf": 519
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"BOM-CCU-SG487": {
+									"dt": "2",
+									"at": "2"
+								},
+								"DEL-BOM-6E6957": {
+									"dt": "3",
+									"at": "2"
+								},
+								"CCU-DEL-SG130": {
+									"dt": "2",
+									"at": "3"
+								}
+							},
+							"ottf": 12467.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						},
+						"BOM-CCU-I5317*CCU-DEL-I5552": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 14057.0,
+							"c": "INR",
+							"bf": 11257.0,
+							"t": 2800.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 14057.0,
+							"ttf": 14057.0,
+							"ibf": 9480.0,
+							"obf": 4577.0,
+							"rt": "REFUNDABLE",
+							"r": 16.094,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"I5317": {
+									"hb": "7 Kg",
+									"cb": "20 Kg"
+								},
+								"6E6957": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"I5552": {
+									"hb": "7 Kg",
+									"cb": "20 Kg"
+								}
+							},
+							"cvf": {
+								"df": 519,
+								"tdf": 519
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"DEL-BOM-6E6957": {
+									"dt": "3",
+									"at": "2"
+								},
+								"BOM-CCU-I5317": {
+								},
+								"CCU-DEL-I5552": {
+									"at": "T3"
+								}
+							},
+							"ottf": 0.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						},
+						"BOM-DEL-AI538": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 8549.0,
+							"c": "INR",
+							"bf": 7321.0,
+							"t": 1228.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 8549.0,
+							"ttf": 8549.0,
+							"ibf": 4616.0,
+							"obf": 3933.0,
+							"rt": "REFUNDABLE",
+							"r": 6.763,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"6E6957": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"AI538": {
+									"hb": "7 KG",
+									"cb": "1PC"
+								}
+							},
+							"cvf": {
+								"df": 499,
+								"tdf": 499
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"DEL-BOM-6E6957": {
+									"dt": "3",
+									"at": "2"
+								},
+								"BOM-DEL-AI538": {
+									"dt": "2",
+									"at": "3"
+								}
+							},
+							"ottf": 8493.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						}
+					},
+					"DEL-CCU-UK705*CCU-BOM-UK772": {
+						"BOM-CCU-I5317*CCU-DEL-I5552": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 17714.0,
+							"c": "INR",
+							"bf": 14454.0,
+							"t": 3260.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 17714.0,
+							"ttf": 17714.0,
+							"ibf": 9545.0,
+							"obf": 8169.0,
+							"rt": "DATA_NOT_AVAILABLE",
+							"r": 23.176,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"I5317": {
+									"hb": "7 Kg",
+									"cb": "20 Kg"
+								},
+								"I5552": {
+									"hb": "7 Kg",
+									"cb": "20 Kg"
+								},
+								"UK772": {
+									"hb": "7 KG",
+									"cb": "20 KG"
+								},
+								"UK705": {
+									"hb": "7 KG",
+									"cb": "20 KG"
+								}
+							},
+							"cvf": {
+								"df": 519,
+								"tdf": 519
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"CCU-BOM-UK772": {
+									"at": "2"
+								},
+								"DEL-CCU-UK705": {
+									"dt": "3"
+								},
+								"BOM-CCU-I5317": {
+								},
+								"CCU-DEL-I5552": {
+									"at": "T3"
+								}
+							},
+							"ottf": 0.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						},
+						"BOM-DEL-AI538": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 13087.0,
+							"c": "INR",
+							"bf": 10518.0,
+							"t": 2569.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 13087.0,
+							"ttf": 13087.0,
+							"ibf": 5122.0,
+							"obf": 7965.0,
+							"rt": "DATA_NOT_AVAILABLE",
+							"r": 13.845,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"UK772": {
+									"hb": "7 KG",
+									"cb": "20 KG"
+								},
+								"UK705": {
+									"hb": "7 KG",
+									"cb": "20 KG"
+								},
+								"AI538": {
+									"hb": "7 KG",
+									"cb": "1PC"
+								}
+							},
+							"cvf": {
+								"df": 519,
+								"tdf": 519
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"DEL-CCU-UK705": {
+									"dt": "3"
+								},
+								"CCU-BOM-UK772": {
+									"at": "2"
+								},
+								"BOM-DEL-AI538": {
+									"dt": "2",
+									"at": "3"
+								}
+							},
+							"ottf": 0.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						}
+					},
+					"DEL-BOM-G8336": {
+						"BOM-CCU-I5317*CCU-DEL-I5552": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 14055.0,
+							"c": "INR",
+							"bf": 10496.0,
+							"t": 3559.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 14055.0,
+							"ttf": 14055.0,
+							"ibf": 9418.0,
+							"obf": 4637.0,
+							"rt": "REFUNDABLE",
+							"r": 16.367,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"I5317": {
+									"hb": "7 Kg",
+									"cb": "20 Kg"
+								},
+								"G8336": {
+									"hb": "7 KG",
+									"cb": "20 KG"
+								},
+								"I5552": {
+									"hb": "7 Kg",
+									"cb": "20 Kg"
+								}
+							},
+							"cvf": {
+								"df": 519,
+								"tdf": 519
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"DEL-BOM-G8336": {
+									"dt": "3",
+									"at": "2"
+								},
+								"BOM-CCU-I5317": {
+								},
+								"CCU-DEL-I5552": {
+									"at": "T3"
+								}
+							},
+							"ottf": 0.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						},
+						"BOM-CCU-SG487*CCU-DEL-SG130": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 12651.0,
+							"c": "INR",
+							"bf": 10384.0,
+							"t": 2267.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 12651.0,
+							"ttf": 12651.0,
+							"ibf": 8597.0,
+							"obf": 4054.0,
+							"rt": "REFUNDABLE",
+							"r": 16.757,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"SG130": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"SG487": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"G8336": {
+									"hb": "7 KG",
+									"cb": "20 KG"
+								}
+							},
+							"cvf": {
+								"df": 519,
+								"tdf": 519
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"BOM-CCU-SG487": {
+									"dt": "2",
+									"at": "2"
+								},
+								"DEL-BOM-G8336": {
+									"dt": "3",
+									"at": "2"
+								},
+								"CCU-DEL-SG130": {
+									"dt": "2",
+									"at": "3"
+								}
+							},
+							"ottf": 12473.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						},
+						"BOM-DEL-AI538": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 8670.0,
+							"c": "INR",
+							"bf": 6560.0,
+							"t": 2110.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 8670.0,
+							"ttf": 8670.0,
+							"ibf": 4616.0,
+							"obf": 4054.0,
+							"rt": "REFUNDABLE",
+							"r": 7.035,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"G8336": {
+									"hb": "7 KG",
+									"cb": "20 KG"
+								},
+								"AI538": {
+									"hb": "7 KG",
+									"cb": "1PC"
+								}
+							},
+							"cvf": {
+								"df": 499,
+								"tdf": 499
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"DEL-BOM-G8336": {
+									"dt": "3",
+									"at": "2"
+								},
+								"BOM-DEL-AI538": {
+									"dt": "2",
+									"at": "3"
+								}
+							},
+							"ottf": 8499.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						},
+						"BOM-DEL-SG8704": {
+							"providerId": 0,
+							"fareType": "COMBINED",
+							"markup": 0.0,
+							"valid": true,
+							"total": 8039.0,
+							"c": "INR",
+							"bf": 5992.0,
+							"t": 2047.0,
+							"f": 0.0,
+							"d": 0.0,
+							"tf": 8039.0,
+							"ttf": 8039.0,
+							"ibf": 3985.0,
+							"obf": 4054.0,
+							"rt": "REFUNDABLE",
+							"r": 6.557,
+							"pk": "25062020163932052",
+							"hbo": false,
+							"b": 0,
+							"tb": 0,
+							"cb": 0.0,
+							"hbf": [
+							],
+							"e": 0,
+							"bag": {
+								"SG8704": {
+									"hb": "7 KG",
+									"cb": "15 KG"
+								},
+								"G8336": {
+									"hb": "7 KG",
+									"cb": "20 KG"
+								}
+							},
+							"cvf": {
+								"df": 499,
+								"tdf": 499
+							},
+							"icf": {
+								"df": 0
+							},
+							"tpd": 0,
+							"pd": 0,
+							"term": {
+								"DEL-BOM-G8336": {
+									"dt": "3",
+									"at": "2"
+								},
+								"BOM-DEL-SG8704": {
+									"dt": "2",
+									"at": "3"
+								}
+							},
+							"ottf": 7889.0,
+							"o": 0.0,
+							"m": 0.0,
+							"op": {
+								"$oa": "100"
+							},
+							"ind": 0,
+							"earnUpto": false,
+							"smfs": false,
+							"sf": false
+						}
+					}
+				},
+				"offerText": "<span class=\"dynot\" style=\"font:11px/1 system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Open Sans,Helvetica Neue; color: #EC5B24;\">?$oa Extra Off</span>",
+				"multiFareTypeEnabled": false
+			}
+		}
+	}
+}

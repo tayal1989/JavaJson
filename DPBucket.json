@@ -1,0 +1,55 @@
+{
+    "successful": true,
+    "code": "Successfully processed!",
+    "message": "Successfully processed!",
+    "validationErrors": [],
+    "protocol": "PROTOCOL_JSON",
+    "responseSro": {
+        "{\"type\":\"device\",\"value\":\"1f79e3d39b7f19371\"}": {
+            "message": null,
+            "guid": "8d398e7d-d169-4068-aa19-b313194bdff0",
+            "expressionSRO": {
+                "user.topnrecentlyviewedTest": {
+                    "message": null,
+                    "value": [
+                        [
+                            652754289769,
+                            1586340016861,
+                            21655,
+                            3280
+                        ],
+                        [
+                            676928911368,
+                            1575006035161,
+                            517,
+                            3655
+                        ],
+                        [
+                            629683386737,
+                            1575006035161,
+                            517,
+                            1355
+                        ],
+                        [
+                            623608641779,
+                            1575006035161,
+                            517,
+                            3655
+                        ],
+                        [
+                            654436106374,
+                            1575006035161,
+                            1845,
+                            655
+                        ]
+                    ],
+                    "successful": true
+                }
+            },
+            "successful": true
+        }
+    },
+    "nextTryWaitTime": 0,
+    "responseCode": "SUCCESS",
+    "requestId": null
+}

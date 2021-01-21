@@ -1,0 +1,41 @@
+{
+	"code": "200",
+	"data": {
+		"aace21": [
+			{
+				"sellerCode": "aace21",
+				"category": "men-apparel-tshirts",
+				"campaignId": 0,
+				"message": "CPT Campaign already exists for this category",
+				"campaignName": null,
+				"campaignType": null,
+				"commission": null,
+				"campaignStartDate": null,
+				"campaignEndDate": null,
+				"totalBudget": null,
+				"errorCode": "121",
+				"accountId": 0,
+				"sellerPlatform": null
+			}
+		],
+		"Sbec72": [
+			{
+				"sellerCode": "Sbec72",
+				"category": "men-apparel-tshirts",
+				"campaignId": 0,
+				"message": "CPT Campaign already exists for this category",
+				"campaignName": null,
+				"campaignType": null,
+				"commission": null,
+				"campaignStartDate": null,
+				"campaignEndDate": null,
+				"totalBudget": null,
+				"errorCode": "121",
+				"accountId": 0,
+				"sellerPlatform": null
+			}
+		]
+	},
+	"status": "OK",
+	"errorBean": null
+}

@@ -1,0 +1,38 @@
+{
+	"productIds": [
+		"668793589419"
+	],
+	"data": {
+		"668793589419": {
+			"display_promo_name": "Surprise",
+			"reissue_offer_time": "540",
+			"unlocked_offer_text": "Congrats! You've received Rs. $$ off on $$",
+			"expired_offer_text": "You Lost! Checkout more products for special discounts",
+			"timer_unlock": "180",
+			"offer_text": "Buy Now and unlock a special discount",
+			"timer_avail_offer": "300",
+			"non_checkout_unlocked_text": "Hey, You have unlocked Rs. $$ off on $$",
+			"colors": {
+				"start": "#1d4350",
+				"end": "#a43931"
+			},
+			"back_to_checkout": {
+				"heading": "Don't miss out!",
+				"body": "You will lose your special discount of Rs. #price# if you don't checkout now.",
+				"cta": {
+					"primary": "Go To Checkout",
+					"secondary": "No Thanks"
+				}
+			},
+			"link_to_checkout": true,
+			"timerOnTop": true,
+			"productId": "668793589419",
+			"productName": "UAT_NM_Mobile4",
+			"started_time": 1578126332190,
+			"random_promo_code": "NMFLASH30",
+			"random_promo_value": "30",
+			"end_time": 1578126512190,
+			"timer_state": "started"
+		}
+	}
+}

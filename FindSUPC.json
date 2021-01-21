@@ -1,0 +1,20 @@
+{
+    "code": "200",
+    "data": [
+        {
+            "pogId": 657043655706,
+            "sellerCode": "5ae2d8",
+            "supc": "SDL631471418",
+            "customLabel": "",
+            "price": 11000,
+            "campaignId": 17293,
+            "topSeller": true,
+            "accountId": 1443,
+            "agencyId": 1443,
+            "dmPublished": true,
+            "bid": 7000000
+        }
+    ],
+    "status": "OK",
+    "errorBean": null
+}

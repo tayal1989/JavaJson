@@ -1,0 +1,158 @@
+{
+    "offer": {
+        "provider": [
+            12
+        ],
+        "amount": 100,
+        "eligibleProducts": [
+            "CAR"
+        ]
+    },
+    "searchProviders": [
+        1026
+    ],
+    "isInternational": false,
+    "airlines": {
+        "G8": {
+            "code": "G8",
+            "lowcost": true,
+            "name": "Go Air",
+            "isInternational": true,
+            "shortURL": "goair.in",
+            "ecl": null,
+            "ehl": null,
+            "bcl": null,
+            "bhl": null,
+            "ec": null,
+            "ei": null,
+            "contact_number": null,
+            "baggage_url": "http://www.baggage-allowance.info/goair-baggage-allowance"
+        },
+        "SG": {
+            "code": "SG",
+            "lowcost": true,
+            "name": "SpiceJet",
+            "isInternational": true,
+            "shortURL": "spicejet.com",
+            "ecl": null,
+            "ehl": null,
+            "bcl": null,
+            "bhl": null,
+            "ec": null,
+            "ei": null,
+            "contact_number": null,
+            "baggage_url": "http://www.baggage-allowance.info/spicejet-airlines-baggage-allowance"
+        },
+        "UK": {
+            "code": "UK",
+            "lowcost": false,
+            "name": "Vistara",
+            "isInternational": false,
+            "shortURL": "airvistara.com",
+            "ecl": null,
+            "ehl": null,
+            "bcl": null,
+            "bhl": null,
+            "ec": null,
+            "ei": null,
+            "contact_number": null,
+            "baggage_url": "https://www.airvistara.com/trip/extra-baggage"
+        },
+        "AI": {
+            "code": "AI",
+            "lowcost": false,
+            "name": "Air India",
+            "isInternational": true,
+            "shortURL": "airindia.in",
+            "ecl": null,
+            "ehl": null,
+            "bcl": null,
+            "bhl": null,
+            "ec": null,
+            "ei": null,
+            "contact_number": null,
+            "baggage_url": "http://www.airindia.in/checked-baggage-allowances.htm"
+        },
+        "I5": {
+            "code": "I5",
+            "lowcost": true,
+            "name": "AirAsia India",
+            "isInternational": false,
+            "shortURL": "airasia.com",
+            "ecl": null,
+            "ehl": null,
+            "bcl": null,
+            "bhl": null,
+            "ec": null,
+            "ei": null,
+            "contact_number": null,
+            "baggage_url": "http://www.airasia.com/in/en/baggage-info/checked-baggage.page"
+        },
+        "6E": {
+            "code": "6E",
+            "lowcost": true,
+            "name": "IndiGo",
+            "isInternational": true,
+            "shortURL": "goindigo.in",
+            "ecl": null,
+            "ehl": null,
+            "bcl": null,
+            "bhl": null,
+            "ec": null,
+            "ei": null,
+            "contact_number": null,
+            "baggage_url": "https://www.goindigo.in/information/travel-information/baggage/bag-allowance.html"
+        }
+    },
+    "providers": {
+        "1026": {
+            "id": "1026",
+            "name": "ixigo",
+            "shortURL": "www.ixigo.com",
+            "pref": 100,
+            "isaa": false,
+            "phNO": "+91 124 6682160",
+            "isrs": false,
+            "isms": 0,
+            "isha": false,
+            "isca": true,
+            "redirType": "ixiBook",
+            "cf": 449,
+            "cfd": "per passenger##convenience fee will be added at the time of payment##convenience fee may change based on provider's policy",
+            "dd": null,
+            "gstEnabled": true,
+            "type": "O",
+            "sticky": false,
+            "nativePayment": true,
+            "ixigoNative": true,
+            "isCombinedFare": false
+        }
+    },
+    "providerOffers": [],
+    "airports": {
+        "BOM": {
+            "iataCode": "BOM",
+            "airportName": "Chatrapati Shivaji International Airport",
+            "cityName": "Mumbai",
+            "countryCode": "IN",
+            "isAllAirport": false,
+            "airports": null,
+            "isMain": false,
+            "cityId": "1075798",
+            "timeZone": "Asia/Kolkata"
+        },
+        "DEL": {
+            "iataCode": "DEL",
+            "airportName": "Indira Gandhi Intl Airport",
+            "cityName": "New Delhi",
+            "countryCode": "IN",
+            "isAllAirport": false,
+            "airports": null,
+            "isMain": false,
+            "cityId": "1065223",
+            "timeZone": "Asia/Kolkata"
+        }
+    },
+    "searchToken": "1q4h30lhtvpztphtwpztphdhphphqh8ojqh96ohtvpztptpdsvpvdkvz",
+    "cashback": {}
+}

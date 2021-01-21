@@ -1,0 +1,43 @@
+{
+    "successful": true,
+    "code": "Successfully processed!",
+    "message": "Successfully processed!",
+    "validationErrors": [],
+    "protocol": "PROTOCOL_JSON",
+    "responseSro": {
+        "{\"type\":\"device\",\"value\":\"1f79e3d39b7f19371\"}": {
+            "message": null,
+            "guid": "8d398e7d-d169-4068-aa19-b313194bdff0",
+            "expressionSRO": {
+                "user.shortListView.currentWishlist": {
+                    "message": null,
+                    "value": [
+                        [
+                            [
+                                654544873047,
+                                676928911368,
+                                629683386737
+                            ],
+                            [
+                                8000,
+                                7800,
+                                517
+                            ],
+                            [
+                                "3655",
+                                "3655",
+                                "1355"
+                            ],
+                            1594241597894
+                        ]
+                    ],
+                    "successful": true
+                }
+            },
+            "successful": true
+        }
+    },
+    "nextTryWaitTime": 0,
+    "responseCode": "SUCCESS",
+    "requestId": null
+}
